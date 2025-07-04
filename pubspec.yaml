@@ -2,6 +2,8 @@ name: dev_analytics_dashboard
 description: "Flutter Dev Analytics Dashboard for version 0.0.1 with features: device info, performance metrics, screen logs, error tracking, user flow visualization, and a gesture-based toggle."
 version: 0.0.1
 homepage: https://github.com/santhosh-ceo/dev_analytics_dashboard
+repository: https://github.com/santhosh-ceo/dev_analytics_dashboard
+issue_tracker: https://github.com/santhosh-ceo/dev_analytics_dashboard/issues
 
 environment:
   sdk: ^3.7.2
