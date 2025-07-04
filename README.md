@@ -5,9 +5,6 @@ A Flutter in-app widget for developers to monitor device info, performance metri
 [![Pub Version](https://img.shields.io/pub/v/offline_sync_manager)](https://pub.dev/packages/dev_analytics_dashboard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-
-![Dashboard Screenshot](screenshots/dashboard.png) <!-- Replace with actual screenshot -->
-
 ## Features
 
 - **Device Info**: Displays device model, OS version, and screen size.
